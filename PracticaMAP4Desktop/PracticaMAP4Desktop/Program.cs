@@ -9,5 +9,10 @@ namespace PracticaMAP4Desktop
             Console.WriteLine("Hello World!");
             //heyyyy
         }
+
+        void ChangeColor()
+        {
+            //metodo cambiar color
+        }
     }
 }
