@@ -7,7 +7,7 @@ namespace PracticaMAP4Desktop
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
-            //heyyyy
+            
         }
 
         void ChangeColor()
