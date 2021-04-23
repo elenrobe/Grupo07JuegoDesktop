@@ -14,5 +14,9 @@ namespace PracticaMAP4Desktop
         {
             //metodo cambiar color
         }
+        void scrollPieces()
+        {
+            //gira las piezas
+        }
     }
 }
